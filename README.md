@@ -1,3 +1,6 @@
+<p align="center"><img src="images/banner.png" width="80%"></p>
+
+
 # 🚗 BMW Car Pricing — EDA (Python)
 
 [![Made with Python](https://img.shields.io/badge/Python-3.13-blue)]()
