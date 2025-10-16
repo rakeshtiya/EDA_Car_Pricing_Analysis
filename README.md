@@ -3,6 +3,8 @@
 
 # 🚗 BMW Car Pricing — EDA (Python)
 
+📄 **Read the Full Report:** [Findings.md](./Findings.md)
+
 [![Made with Python](https://img.shields.io/badge/Python-3.13-blue)]()
 [![Libraries](https://img.shields.io/badge/Libraries-pandas%20%7C%20matplotlib%20%7C%20scikit--learn-informational)]()
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
