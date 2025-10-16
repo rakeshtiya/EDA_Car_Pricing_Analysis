@@ -1,5 +1,31 @@
 <p align="center"><img src="images/banner.png" width="80%"></p>
 
+---
+
+<p align="center">
+  <img src="./images/banner.png" width="85%" alt="BMW Car Pricing — Python EDA">
+</p>
+
+---
+
+<div align="center">
+
+### 💼 **Project Summary**
+| Category | Details |
+|-----------|----------|
+| **Project Title** | BMW Car Pricing — Exploratory Data Analysis |
+| **Objective** | Understand pricing drivers and data structure using Python EDA |
+| **Dataset Size** | 50,000 rows × 11 columns |
+| **Tech Stack** | Python, Pandas, Matplotlib, Scikit-learn, VS Code, GitHub |
+| **Key Steps** | Data Cleaning → Visualization → Correlation → Regression |
+| **Outcome** | Discovered that price is not driven by numeric specs; categorical features (region, model, fuel type) likely explain variations. |
+| **Report Link** | [📄 View Full Findings](./Findings.md) |
+
+</div>
+
+---
+
+# 🚗 BMW Car Pricing — EDA (Python)
 
 # 🚗 BMW Car Pricing — EDA (Python)
 
