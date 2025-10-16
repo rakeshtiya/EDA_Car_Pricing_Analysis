@@ -38,3 +38,17 @@
 <img src="images/price_hist.png" width="45%"> <img src="images/corr_heatmap.png" width="45%">
 
 
+---
+
+## 👨‍💻 About Me
+
+Hi there! I'm **Rakesh Mohankumar**, a **Customer Success Manager** turned aspiring **Business Analyst** currently pursuing my **MSc in Business Analytics at the University of Exeter, UK**.
+
+I love solving business problems using data  from exploratory analysis to insight storytelling.  
+This project is part of my journey to master real-world analytics and showcase my hands-on skills using Python, Pandas, and visualization tools.
+
+📍 **Open to:** Graduate / Business Analyst roles in the UK  
+💼 **LinkedIn:** [linkedin.com/in/rakeshtiya](https://www.linkedin.com/in/rakesh-mohankumar-367915161/)  
+📊 **Goal:** Combine my SaaS and analytics background to deliver data-driven success strategies.
+
+---
