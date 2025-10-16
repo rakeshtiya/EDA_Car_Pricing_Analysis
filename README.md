@@ -1,4 +1,3 @@
-<p align="center"><img src="images/banner.png" width="80%"></p>
 
 ---
 
@@ -24,8 +23,6 @@
 </div>
 
 ---
-
-# 🚗 BMW Car Pricing — EDA (Python)
 
 # 🚗 BMW Car Pricing — EDA (Python)
 
