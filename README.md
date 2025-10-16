@@ -10,6 +10,6 @@
 > 50,000-row BMW dataset. End-to-end EDA: data quality checks, distributions, category comparisons, correlation heatmap, and a simple regression demo.
 
 ## 🔍 Preview
-<img src="images/price_hist.png" width="45%"> <img src=".images/corr_heatmap.png" width="45%">
+<img src="images/price_hist.png" width="45%"> <img src="images/corr_heatmap.png" width="45%">
 
 
